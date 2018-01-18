@@ -23,6 +23,7 @@ gem 'active_model_serializers'
 gem 'rack-cors'
 gem 'knock'
 gem 'figaro'
+gem 'dotenv-rails'
 # gem 'knock', git: "git@github.com:StevenNunez/knock.git", branch: "pluggable-resource"
 
 group :development, :test do
